@@ -105,16 +105,6 @@ flowchart LR
 
 ---
 
-## 🖼️ Screenshots
-
-> 📌 Add your screenshots to a `docs/screenshots/` folder and update the paths below.
-
-| Home | Browse by Class | Sign Up |
-|:---:|:---:|:---:|
-| ![Home](docs/screenshots/home.png) | ![Browse by class](docs/screenshots/browse.png) | ![Sign up](docs/screenshots/signup.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 > ✏️ **Edit this section to match your project.** Delete any rows that don't apply.
@@ -149,18 +139,6 @@ cd story-teacher/story-teacher
 
 # 3. Install dependencies
 npm install
-```
-
-### Environment Variables
-
-Create a `.env` file in the project root and add your keys:
-
-```env
-# Example, rename to match your project
-GEMINI_API_KEY=your_api_key_here
-DATABASE_URL=your_database_url_here
-AUTH_GOOGLE_ID=your_google_client_id
-AUTH_GOOGLE_SECRET=your_google_client_secret
 ```
 
 > ⚠️ Never commit your `.env` file. Add it to `.gitignore`.
